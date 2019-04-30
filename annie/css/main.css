@@ -1,0 +1,21 @@
+body {
+     background-image: url(../images/b2.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover ;
+     background-position: center ;
+
+     
+
+}
+
+/*.container {
+
+    width: 600px;
+    min-height :1000px;
+    background-color: rgba(0 ,0 , 0 , 0.5);
+    padding: 20px;
+    margin :0 auto;
+    color:white;
+
+    }*/
