@@ -14,16 +14,12 @@ body {
 }
 
 .header-cont{
- 
   width: 1200px;
   margin: 0 auto;
-
 }
 
 .header-cont ul{
-
   float: right;
-
 }
 
 .header-cont ul li{
@@ -43,12 +39,12 @@ list-style:none;
 
 .container {
 
-    width: 1200px;
-    min-height : 400px;
-    background-color: black;
-    padding: 20px;
-    margin :0 auto;
-    color:white;
+  width: 1200px;
+  min-height : 400px;
+  background-color: black;
+  padding: 20px;
+  margin :0 auto;
+  color:white;
 
 }
 
@@ -65,10 +61,25 @@ list-style:none;
   margin-bottom: 40px;
   line-height: 1.5em;
   text-align: center;
-}2
+}
 .container p a{
   color:blue;
   text-decoration: none;
   text-underline-position: none;
 }
 
+.ai h1{
+
+  width: 1200px;
+  margin: 0 auto;  
+ /* width: 1200px;
+  min-height : 400px;
+  background-color: black;
+  padding: 20px;
+  margin :0 auto;
+  color:white;*/
+}
+
+.ai h1{
+color:#fff;
+}
