@@ -1,6 +1,6 @@
 
 body{
-  background-color: red;
+  background-color: linen;
 }
 
 .content{
@@ -11,6 +11,7 @@ body{
   margin :0 auto;
   color:white;
   overflow: auto;
+  font-size: 20px;
 
 }
 
@@ -19,6 +20,8 @@ body{
   line-height: 1.5em;
   color:black;
 }
+
+
 
 .footer{
   background-color: black;
